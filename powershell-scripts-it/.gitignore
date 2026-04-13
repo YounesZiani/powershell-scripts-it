@@ -1,0 +1,14 @@
+# Fichiers de log générés par les scripts
+*.log
+*.txt
+!docs/*.txt
+
+# Fichiers CSV avec données sensibles
+users.csv
+
+# Dossiers de sauvegarde générés
+backups/
+output/
+
+# VS Code
+.vscode/
